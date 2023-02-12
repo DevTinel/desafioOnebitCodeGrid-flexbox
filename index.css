@@ -60,7 +60,6 @@ nav {
 .item {
   display: flex;
   align-content: center;
-  justify-content: center;
   flex-direction: column;
   width: 250px;
   border: 1px solid transparent;
