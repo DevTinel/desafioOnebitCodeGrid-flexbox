@@ -188,6 +188,7 @@ footer img {
     gap: 20px;
   }
   footer {
-    padding: 20px;
+    padding: 30px;
+    height: max-content;
   }
 } ;
